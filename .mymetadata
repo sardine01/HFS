@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HFS"
+  id="myeclipse.1336543238000"
+  context-root="/HFS"
+  j2ee-spec="5.0"
+  archive="HFS.war">
+  <attributes>
+    <attribute name="webrootdir" value="webcontent" />
+  </attributes>
+</project-module>
+
